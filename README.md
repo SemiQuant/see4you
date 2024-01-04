@@ -12,4 +12,8 @@ A portable OD600 spectrophotometer costing ~$30 (see BOM).
 
 Usage video: 
 
-https://github.com/SemiQuant/see4you/blob/main/see4you_mark1.mp4
+
+
+
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/SemiQuant/see4you/blob/main/see4you_mark1.mp4)
